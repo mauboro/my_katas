@@ -1,0 +1,8 @@
+function sumOfDifferences(arr) {
+  if (arr.length != 0){
+    return Math.max(...arr) - Math.min(...arr);
+  }
+  else{
+    return 0;
+  }
+}

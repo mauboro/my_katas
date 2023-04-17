@@ -1,0 +1,1 @@
+const ifChuckSaysSo = () => !!(0);

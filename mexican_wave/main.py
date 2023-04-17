@@ -1,0 +1,3 @@
+def wave(people):
+    pass
+
